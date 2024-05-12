@@ -28,7 +28,6 @@ var urls = [
     "https://chillzonelore.github.io/ChillZoneLore/Civilian-Senichka.html",
     "https://chillzonelore.github.io/ChillZoneLore/Civilian-Sofya-De-Lamar.html",
     "https://chillzonelore.github.io/ChillZoneLore/Civilian-Tin-D.html",
-    "https://chillzonelore.github.io/ChillZoneLore/Civilians.html",
     "https://chillzonelore.github.io/ChillZoneLore/Hunter-Darya-Daruak.html",
     "https://chillzonelore.github.io/ChillZoneLore/Hunter-Elizaveta-Nesonkin.html",
     "https://chillzonelore.github.io/ChillZoneLore/Hunter-Evgeniya-Hudozhnik.html",
